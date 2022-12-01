@@ -9,7 +9,9 @@ class Screen2 extends StatelessWidget {
       appBar: AppBar(title: Text('Screen 2'), backgroundColor: Colors.green),
       body: Center(
         child: ElevatedButton(
-          onPressed: () {},
+          onPressed: () {
+            Navigator.pop(context);
+          },
           child: Text('Kembali ke Screen 1'),
           style: ElevatedButton.styleFrom(backgroundColor: Colors.green),
         ),
