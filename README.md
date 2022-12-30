@@ -1,16 +1,12 @@
 # it_box_tutorial_2
 
-A new Flutter project.
 
-## Getting Started
+This is one of the projects during ITBOX class. It is about how to use Navigator.page.
 
-This project is a starting point for a Flutter application.
+These are my examples:
 
-A few resources to get you started if this is your first Flutter project:
+<img src="lib\assets\Screenshot_1672414858.png" alt="How example looks" width="300" height="540">
+<img src="lib\assets\Screenshot_1672414867.png" alt="How example looks" width="300" height="540">
+<img src="lib\assets\Screenshot_1672414873.png" alt="How example looks" width="300" height="540">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'm also using Flutter version 3.6.0-13.0.pre
